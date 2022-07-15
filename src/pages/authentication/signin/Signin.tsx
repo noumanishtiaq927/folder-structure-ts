@@ -1,16 +1,8 @@
 import React from 'react'
 
-const Signin = () => {
+function Signin() {
   return (
-    <>
     <div>Signin</div>
-    <div>Signin</div>
-    <div>Signin</div>
-    <div>Signin</div>
-    <div>Signin</div>
-    <div>Signin</div>
-    <div>Signin</div>
-    </>
   )
 }
 
